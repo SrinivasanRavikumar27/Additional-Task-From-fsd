@@ -1,0 +1,46 @@
+
+Thiru Notes:
+
+CodeKata    -   https://www.pastiebin.com/649426ce3ed58
+
+RoadMap     -   https://www.pastiebin.com/64a3952ed6a80
+
+Manikandan Notes:
+
+https://github.com/ManikandanAbirami/b49-wd2-tamil
+
+
+Sytem Path Mine : "C:\Users\srini"
+
+
+Git Commands:
+
+To Clone Repository - git clone url
+
+to List clone repository - ls
+
+change directory - cd path 
+
+add all in that path - git add .
+
+To frist commit - git commit -m "first commit"
+
+push data from local - git push
+
+ur repository Details  - git config --global user.name "SrinivasanRavikumar27"
+
+ur repository Details -  git config --global user.email "tosrinivasanravi@gmail.com"
+
+list of config acc -  git config --list
+
+
+
+
+
+
+
+
+
+
+
+

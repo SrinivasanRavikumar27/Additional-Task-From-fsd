@@ -1,0 +1,21 @@
+body{
+    background-color: whitesmoke;
+}
+
+.box{
+    padding: 10px 0px 10px 0px;
+}
+
+.card{
+    background-color: grey !important;
+    margin: 30px 0px 0px 0px;
+    padding: 30px 5px 30px 5px;
+    }
+    
+    h4{
+        padding: 10px;
+    }
+    
+    
+    
+    
